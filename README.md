@@ -10,7 +10,7 @@ Um app front-end (HTML/CSS/JS puro, sem build) que centraliza o processo de cria
 
 ## Principais funcionalidades
 
-- **Cadastro de cliente**: domínio, plataforma (VTEX IO, Linx, CodeIgniter, etc.), formato de saída (Markdown, HTML simples ou HTML com wrapper customizado), limites de título/meta, sufixos fixos de SEO e estilo visual do preview (fonte, tamanhos, cores), pra o preview ficar igual ao site real.
+- **Cadastro de cliente**: domínio, plataforma (VTEX IO, Linx, etc.), formato de saída (Markdown, HTML simples ou HTML com wrapper customizado), limites de título/meta, sufixos fixos de SEO e estilo visual do preview (fonte, tamanhos, cores), pra o preview ficar igual ao site real.
 - **Briefing do conteúdo**: H1, título SEO e meta description com contador de caracteres, palavra-chave principal, campo semântico, justificativa, perguntas e linkagens. Suporta importação via planilha.
 - **Sugestão por IA**: geração assistida de título e meta description (requer conexão com a internet, roda via Claude.ai).
 - **Editor com preview em tempo real**: editor rich text (negrito, itálico, headings, listas, links) com toggle para visualizar o código-fonte e preview renderizado no estilo do cliente.
